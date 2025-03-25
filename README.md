@@ -1,0 +1,1 @@
+This file contains the web scrapping project of stock market data Analysis that extracts and analyzes the information obtained and gives output of the new updated stocks. It is a Python code that uses web scrapping technique to extract and analyze the important information regarding stocks and give the result
