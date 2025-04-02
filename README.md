@@ -2,3 +2,4 @@ This new project of Google News scraper using requests and BeautifulSoup to coll
 It has Implemented pagination handling, request throttling, and error management to optimize scraping efficiency and prevent IP bans.
 It has extracted and structured news data into JSON format for further analysis.
 It has Automated daily news collection with a looped date iteration approach.
+Overall it has utilized Python (requests, BeautifulSoup, json, datetime, sys, signal) for web scraping and data automation.
